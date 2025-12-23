@@ -54,3 +54,35 @@ To analyze student feedback and build a dashboard that:
 ---
 
 ## 📂 Project Structure
+
+FUTURE_DS_03
+│
+├── README.md
+└── Task_3_Student_Feedback_Analysis
+├── student_feedback.csv
+├── Student_Feedback_Dashboard.pbix
+├── Student_Feedback_Dashboard.pdf
+└── dashboard_preview.png
+
+
+---
+
+## 📎 Files Included
+- `.pbix` → Editable Power BI dashboard
+- `.pdf` → Exported dashboard
+- `.csv` → Raw student feedback dataset
+- `.png` → Dashboard screenshot
+
+---
+
+## ✅ Internship Task Status
+✔ Task 3 completed  
+✔ Power BI dashboard created  
+✔ GitHub repository maintained  
+
+---
+
+### 👤 Author
+**Vansh Babbar**  
+Data Science & Analytics Intern – Future Interns
+
